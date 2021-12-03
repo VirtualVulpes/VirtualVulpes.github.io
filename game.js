@@ -62,7 +62,7 @@ const textNodes = [
             },
             {
                 text: 'Keep looking around',
-                nextText: 4
+                nextText: 5
             }
         ]
     },
@@ -72,7 +72,11 @@ const textNodes = [
     },
     {
         id: 4,
-        text: "Thanks for playing my super amazing game that's filled with content! Unfortunately, you didn't pay for the $99.99 battle pass so you can't continue."
+        text: "While attempting to pick up the stick, you overbalance and fall due to the increased gravity. You decide to give up and curl up into a ball. Fin"
+    },
+    {
+        id: 5,
+        text: "While looking around, you notice a large animal sprinting towards you. It tackles you to the ground, and in an attempt to avoid its wrath you decide to give up and curl up into a ball. Fin"
     }
 ]
 
