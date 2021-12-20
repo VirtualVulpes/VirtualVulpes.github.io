@@ -39,7 +39,7 @@ function selectOption(option) {
 const textNodes = [
     {
         id: 1,
-        text: 'You wake up in a strange looking forest. The air smells weird and the gravity seems a little stronger than usual.',
+        text: 'Parker is now expelled from Mosinee High School. He must come to the office immediately or will be escorted out by local authorities. This WILL go on his permanent record.',
         options: [
             {
                 text: 'Look around',
