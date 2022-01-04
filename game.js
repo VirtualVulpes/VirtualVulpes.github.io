@@ -43,23 +43,15 @@ const textNodes = [
         options: [
             {
                 text: 'Donate',
-                nextText: 1
+                nextText: 2
             }
         ]
     },
     {
         id: 2,
-        text: 'You take in your surroundings, noticing a stick on the ground.',
+        text: 'You were too late. The last of the mandarin eels have died and they are now forever extinct.',
         options: [
-            {
-                text: 'Take the stick',
-                setState: { stick: true },
-                nextText: 4
-            },
-            {
-                text: 'Keep looking around',
-                nextText: 5
-            }
+
         ]
     },
     {
