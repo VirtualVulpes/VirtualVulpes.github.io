@@ -39,15 +39,11 @@ function selectOption(option) {
 const textNodes = [
     {
         id: 1,
-        text: 'You wake up in a strange looking forest. The air smells weird and the gravity seems a little stronger than usual.',
+        text: 'Donate now: Save the eels today! For every penny you donate, one and a half mandarin eels will be saved.',
         options: [
             {
-                text: 'Look around',
-                nextText: 2
-            },
-            {
-                text: 'Curl up into a ball',
-                nextText: 3
+                text: 'Donate',
+                nextText: 1
             }
         ]
     },
