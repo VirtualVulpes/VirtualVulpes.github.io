@@ -1,0 +1,71 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    padding: 0;
+    margin: 0;
+    background-color: #202020;
+    color:#ffffff
+}
+
+/* Global */
+.container{
+    width:80%;
+    margin:auto;
+    overflow: hidden;
+}
+
+/* Header */
+header{
+    background-color: #303030;
+    color:#ffffff;
+    min-height: 70px;
+    text-align: center;
+}
+
+/* Showcase */
+#showcase{
+    min-height: 400px;
+    background:url('../img/laptop.jpg') no-repeat 0, -140px;
+    background-size: cover;
+    text-align: center;
+}
+
+#showcase h1{
+    margin-top:100px;
+    font-size: 55px;
+    margin-bottom: 10px;
+}
+
+#showcase p{
+    font-size: 20px;
+}
+
+/* Boxes */
+#boxes{
+    margin-top:  60px;
+}
+
+#boxes a{
+    color:#ffffff;
+}
+
+#boxes .box{
+    float: left;
+    text-align: center;
+    width: 48%;
+}
+
+#boxes .box img{
+    width: 90px;
+}
+
+main{
+    min-height: calc(100vh - 100px);
+}
+
+footer{
+    padding: 1px;
+    margin-top:80px;
+    background-color: 303030;    
+}
