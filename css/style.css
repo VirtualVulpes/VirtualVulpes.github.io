@@ -26,13 +26,14 @@ body{
 }
 
 #showcase h1{
-    margin-top: 100px;
-    font-size: 3.5vw;
-    margin-bottom: 10px;
+    margin-top: 150px;
+    font-size: 40px;
+    margin-bottom: 0px;
 }
 
 #showcase p{
-    font-size: 20px;
+    margin-top: 0px;
+    font-size: 15px;
 }
 
 /* Boxes */
@@ -47,7 +48,7 @@ body{
 #boxes .box{
     float: left;
     text-align: center;
-    width: 48%;
+    width: 32%;
 }
 
 #boxes .box img{
